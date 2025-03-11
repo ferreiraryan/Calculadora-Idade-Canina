@@ -7,7 +7,7 @@ IOS Class SwiftUI Activity
 This project was developed using the following technologies:
 
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
-- [SwiftUI](https://developer.apple.com/xcode/)
+- [Xcode](https://developer.apple.com/xcode/)
 
 ## 📂 Project Structure
 
